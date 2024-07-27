@@ -1,0 +1,23 @@
+{
+  "name": "Rakon BI - Blue",
+"dataColors": ["#00AEB9",
+"#5ABAC4",
+"#007184",
+"#8ECBD2",
+"#21A192",
+"#38C0EE",
+"#009DDE",
+"#00476A",
+"#85678F",
+"#BA9DC9",
+"#8787B6",
+"#692C8C",
+"#66418B",
+"#A349A4",
+"#704F7B",
+"#7089B6"
+],
+"background":"#FFFFFF",
+ "foreground": "#00476A",
+"tableAccent":  "#00AEB9"
+}
